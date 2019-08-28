@@ -34,3 +34,5 @@ infrastructure_quality <- function(maintainance_labor, psi = 0.2, epsilon = 0.18
                 max_irrigation / (2 * epsilon) * (maintainance_labor - psi + epsilon),
                 max_irrigation))
 }
+
+#testing
